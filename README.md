@@ -1,2 +1,5 @@
 # Titanic_Dataset
-My FIrst Submission for Kaggle Titanic Survival Rate event.
+My First Submission for Kaggle Titanic Survival Rate event.
+---
+#### [Notebook](Titanic_Notebook.ipynb)
+---
